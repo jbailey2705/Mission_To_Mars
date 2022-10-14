@@ -27,4 +27,5 @@ The END RESULT was a fully-functional web application creted with Flask that inc
 
 ## Code:
 - HTML code: [index.html](https://github.com/jbailey2705/Mission_To_Mars/tree/main/HTML#:~:text=.%E2%80%8A.-,index.html,-Add%20files%20via)
--
+- Scrapping script: https://github.com/jbailey2705/Mission_To_Mars/tree/main/HTML#:~:text=.%E2%80%8A.-,index.html,-Add%20files%20via
+- APP script: https://github.com/jbailey2705/Mission_To_Mars/tree/main/HTML#:~:text=.%E2%80%8A.-,index.html,-Add%20files%20via
