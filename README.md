@@ -15,9 +15,12 @@ The purpose of this project was to build a Web App that will scrape several webs
 
 ## Web Scraping Mars data from NASA using Jupyter Notebook
 BeautifulSoup and Splinter were used to automate the web browser & perform a web scrape of the sites.
+
 ![Screen Shot 2022-10-14 at 8 02 59 AM](https://user-images.githubusercontent.com/109354592/195853860-979a15d1-c31a-479b-abde-07f1714f2add.png)
 
 ## Updating the Web App
 Bootstrap 3 components, allows us to show the four Mars hemisphere images side-by-side on Desktop browsers, instead of a line. This allows users to see all four images at once.
+
 ![Mars Hemispheres](https://user-images.githubusercontent.com/109354592/195853141-126e1c85-7c36-44d8-8510-44bdf1006db4.png)
 
+The END RESULT was a fully-functional web application creted with Flask that included images, table with information about Mars in comparison to Earth, and the latest article title and short description scraped from the NASA's webpage. Each time we click on the "Scrape New Data" button new information will be updated on both the website and the MongoDB.
