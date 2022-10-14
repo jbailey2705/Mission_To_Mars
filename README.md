@@ -23,9 +23,9 @@ Bootstrap 3 components, allows us to show the four Mars hemisphere images side-b
 
 ![Mars Hemispheres](https://user-images.githubusercontent.com/109354592/195853141-126e1c85-7c36-44d8-8510-44bdf1006db4.png)
 
-The END RESULT was a fully-functional web application creted with Flask that included images, table with information about Mars in comparison to Earth, and the latest article title and short description scraped from the NASA's webpage. Each time we click on the "Scrape New Data" button new information will be updated on both the website and the MongoDB.
+End result was a fully-functional web application creted with Flask that included images, table with information about Mars in comparison to Earth, and the latest article title and short description scraped from the NASA's webpage. Each time we click on the "Scrape New Data" button new information will be updated on both the website and the MongoDB.
 
 ## Code:
 - HTML code: [index.html](https://github.com/jbailey2705/Mission_To_Mars/tree/main/HTML#:~:text=.%E2%80%8A.-,index.html,-Add%20files%20via)
-- Scrapping script: https://github.com/jbailey2705/Mission_To_Mars/tree/main/HTML#:~:text=.%E2%80%8A.-,index.html,-Add%20files%20via
-- APP script: https://github.com/jbailey2705/Mission_To_Mars/tree/main/HTML#:~:text=.%E2%80%8A.-,index.html,-Add%20files%20via
+- Scraping script: [scraping.py](https://github.com/jbailey2705/Mission_To_Mars/tree/main/HTML#:~:text=.%E2%80%8A.-,index.html,-Add%20files%20via)
+- APP script: [app.py](https://github.com/jbailey2705/Mission_To_Mars/tree/main/HTML#:~:text=.%E2%80%8A.-,index.html,-Add%20files%20via)
